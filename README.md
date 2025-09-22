@@ -1,4 +1,4 @@
-# Week 8 — GitHub & Version Control Assignment
+# Week 1 — GitHub & Version Control Assignment
 
 This repo is a starter pack for the Week 1 exercise: create a plot from `mammal_teeth.csv` and submit your work via a branch on GitHub.
 
